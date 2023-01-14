@@ -1,0 +1,20 @@
+[
+  {
+    "id" :  1,
+    "title" : "Test post 1",
+    "body" : "Test post body 1",
+    "likes": 0
+  },
+  {
+    "id" :  2,
+    "title" : "Test post 2",
+    "body" : "Test post body 2",
+    "likes": 0
+  },
+  {
+    "id" :  3,
+    "title" : "Test post 3",
+    "body" : "Test post body 3",
+    "likes": 0
+  }
+]
